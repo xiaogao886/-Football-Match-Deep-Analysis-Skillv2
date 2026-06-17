@@ -1,4 +1,4 @@
-# ⚽ Football Match Deep Analysis Skill
+# ⚽ Football Match Deep Analysis Skillv2
 
 > 一个用于足球比赛赛前深度分析的结构化 Prompt 模板，适用于联赛、杯赛、欧战、洲际赛事、国家队赛事和世界杯等高强度比赛场景。
 > 目标是帮助分析师或 AI 模型从球队基本面、战术结构、关键对位、伤停体能、心理因素、盘口走势和风险控制等维度，输出一份专业、清晰、可复用的赛前分析报告。
@@ -688,7 +688,7 @@
 盘口信息：法国竞彩让1球，亚盘法国-1.25
 其他背景：世界杯首轮，非洲强队面对争冠热门
 
-请按照 Football Match Deep Analysis Skill 模板，完成一份赛前深度分析报告。
+请按照 Football Match Deep Analysis Skillv2 模板，完成一份赛前深度分析报告。
 请额外加入盘口分析、竞彩让球分析和冷门风险分析。
 ```
 
